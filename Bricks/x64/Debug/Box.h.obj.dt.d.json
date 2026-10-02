@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\software engineering\\lab repo\\brick breaker lab\\box.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\software engineering\\lab repo\\brick breaker lab\\baseobject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

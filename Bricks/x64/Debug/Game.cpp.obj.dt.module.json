@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bricks\\x64\\Debug\\Game.obj",
+            "outputs": [
+                "Bricks\\x64\\Debug\\Game.cpp.obj.dt.module.json",
+                "Bricks\\x64\\Debug\\Game.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
